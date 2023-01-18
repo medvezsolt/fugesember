@@ -1,7 +1,3 @@
-      var related_posts = [];
-      var related_posts2 = [];
-      var related_filled = [];
-      var related_filled2 = [];
       function prepare_related_posts_list( json ){
           var posts = json.feed.entry;
 
