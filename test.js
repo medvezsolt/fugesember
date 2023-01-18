@@ -1,4 +1,3 @@
-      //<![CDATA[
       var related_posts = [];
       var related_posts2 = [];
       var related_filled = [];
@@ -200,4 +199,3 @@
          tmp.innerHTML = html;
          return tmp.textContent || tmp.innerText || "";
       }
-      //]]>
